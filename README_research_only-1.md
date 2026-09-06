@@ -2,7 +2,7 @@
 
 **AI-Powered Passive Cyber Threat Detection for One-Way Network Monitoring**
 
-> Research & Documentation Repository — **Smart India Hackathon 2026** — Team **Cyberknight007**
+> Research & Documentation Repository — **Smart India Hackathon 2026** — Team **CyberNexus**
 
 ![status](https://img.shields.io/badge/status-research%20phase-yellow) ![license](https://img.shields.io/badge/license-MIT-blue)
 
