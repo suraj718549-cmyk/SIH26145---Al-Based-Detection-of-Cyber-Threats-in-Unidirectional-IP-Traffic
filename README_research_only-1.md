@@ -192,7 +192,7 @@ Code will be pushed to this same repo as each piece is ready — probably in sta
 
 ---
 
-## ✨ Contributors — Team Cyberknight007
+## ✨ Contributors — Team CyberNexus
 
 1. [Your Name]
 2. [Teammate 2]
